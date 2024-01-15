@@ -5,7 +5,7 @@
 
 [![](./res/home-bird.png)](res/home-bird.png)
 
-This is a Machine Learning project, built to work on a RaspberryPi with a camera placed in a birdhouse.
+Bird Recognition is a Machine Learning project, built to work on a RaspberryPi with a camera placed in a birdhouse.
 The program take continuous photos to classify the different birds coming in the birdhouse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
