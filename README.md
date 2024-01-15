@@ -1,9 +1,7 @@
-<h3 align="center">Bird Recognition</h3>
+[![](./res/birdrecognition-home.jpg)](res/birdrecognition-home.jpg)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![](./res/home-bird.png)](res/home-bird.png)
 
 This is a Machine Learning project, built to work on a RaspberryPi with a camera placed in a birdhouse.
 The program take continuous photos to classify the different birds coming in the birdhouse.
