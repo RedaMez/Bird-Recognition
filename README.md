@@ -6,14 +6,10 @@
 Bird Recognition is a Machine Learning project, built to work on a RaspberryPi with a camera placed in a birdhouse.
 The program take continuous photos to classify the different birds coming in the birdhouse.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 * [![Python][Python.com]][Python-url]
 * [![Numpy][Numpy.com]][Numpy-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -31,8 +27,6 @@ The program take continuous photos to classify the different birds coming in the
     *   put every **image** from each **subfolder** of ```/resources/results/``` into the **initial folder** ```/resources/extracted_birds_to_validate/```
     *   delete the **subfolders created in the folder** ```/resources/results/```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -44,8 +38,6 @@ The program take continuous photos to classify the different birds coming in the
 Reda Meziane - reda.meziane99@gmail.com
 
 Project Link: [https://github.com/BirdRecognition](https://github.com/RedaMez/Bird-Recognition)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
